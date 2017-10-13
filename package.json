@@ -38,7 +38,7 @@
   "homepage": "https://github.com/gitterHQ/services",
   "dependencies": {
     "require-all": "0.0.8",
-    "qs": "^1.0.0",
+    "qs": "^6.0.4",
     "extend": "^1.2.1"
   }
 }
