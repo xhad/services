@@ -39,6 +39,6 @@
   "dependencies": {
     "require-all": "0.0.8",
     "qs": "^1.0.0",
-    "extend": "^1.2.1"
+    "extend": "^2.0.2"
   }
 }
